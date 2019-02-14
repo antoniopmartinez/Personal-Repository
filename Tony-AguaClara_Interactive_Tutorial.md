@@ -65,8 +65,8 @@ print(x)
 from aide_design.play import*
 import math
 u.default_format = '.2f'
-x = math.sin(4) * u.m
-print(x)
+y = math.sin(4) * u.m
+print(y)
 
 
 ```

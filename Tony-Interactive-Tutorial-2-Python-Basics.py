@@ -114,16 +114,16 @@ print(x)
 #
 # Hint: Don't copy and paste the function 6 times!
 
-x = 4
+xx = 4
 
 # Your answer here
 def squared(y):
     y = y ** 2
 
 for i in range(6):
-    squared(x)
+    squared(xx)
 
-print(x)
+print(xx)
 
 #######################################################################
 # Don't touch this! This is for testing your code.
